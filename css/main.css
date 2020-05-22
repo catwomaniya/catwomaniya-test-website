@@ -954,13 +954,13 @@ html.loaded .home-content__main {
 .s-contact {
   padding-top: 21rem;
   padding-bottom: 10.2rem;
-  background-color: white;
-  color: rgba(255, 255, 255, 0.3);
+  background-color: #1D1C1B;
+  color: white;
   position: relative;
 }
 
 .s-contact a {
-  color: black;
+  color: white;
   border-bottom: 1px solid transparent;
   display: inline-block;
 }
