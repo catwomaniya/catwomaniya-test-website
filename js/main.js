@@ -106,5 +106,11 @@
             once: true,
             disable: 'mobile'
         });
-    };
+    }; 
+    (function () {
+        Preloader();
+        Animation();
+        SmoothScroll();
+        AOSStart();
+    })();
 })(jQuery);
